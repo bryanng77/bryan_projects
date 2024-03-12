@@ -1,2 +1,2 @@
-# bryan_projects
+# Welcome to my Data Analytics Portfolio!
 Portfolio Projects
